@@ -1,3 +1,7 @@
+uint8 FOREGROUND = 1
+uint8 BACKGROUND = 2
+uint8 MANUAL = 3
+
 builtin_interfaces/Time stamp
-bool ctrl
+uint8  type
 string mode
